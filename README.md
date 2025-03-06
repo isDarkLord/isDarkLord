@@ -7,3 +7,8 @@
 - `💉` **`malware`**<br>
 \\___[ malware with most normal metasploit payloads.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
+
+- `🌤️` **`weather_app`**<br>
+\\___[ normal weather_app hehe.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
+
